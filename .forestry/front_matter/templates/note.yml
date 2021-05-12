@@ -2,12 +2,12 @@
 label: Note
 hide_body: false
 fields:
-- name: text
+- name: New_Note
   type: textarea
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
-  label: text
+  label: Note
