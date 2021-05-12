@@ -1,13 +1,6 @@
 ---
-title: move your body every day.md-(copy)
+title: note test
 published: false
 
 ---
-Move your body every day. Benefits include:
-
-- Improved sleep quality
-- Less risk of chronic disease
-- Increased productivity
-- Reduced anxiety
-
-The "every day" part is important, because [[consistency]] is key to most things worth doing.
+THIS IS JUST A TEST NOTE \[\[cats\]\]
